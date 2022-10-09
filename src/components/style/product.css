@@ -1,0 +1,5 @@
+.product {
+  /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(234,175,204,1) 18%, rgba(148,187,233,1) 100%); */
+  box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+    0 15px 40px rgba(166, 173, 201, 0.2);
+}
